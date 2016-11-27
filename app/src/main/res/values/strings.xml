@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Happy Birthday</string>
+    <string name="order">Menu Order</string>
+    <string name="Profile">Profile</string>
+    <string name="text_one">Happy Birthday, Lukman</string>
+    <string name="text_two">From, Achmad</string>
+</resources>
